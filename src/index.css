@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.secondCard
+{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.block
+{
+  background-color: gray;
+  height: 300px;
+  width: 400px;
+}
+.main
+{
+  display: flex;
+  justify-content: center;
+  
+}
